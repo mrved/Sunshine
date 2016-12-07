@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="action_settings">Settings</string>
+    <string name="refresh_button_value">Refresh</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pref_location_key">location</string>
+    <string name="pref_location_label">location</string>
+    <string name="pref_location_default">94043</string>
+    <string-array name="conversion_keys">
+        <item>Celsius</item>
+        <item>Fahrenhite</item>
+    </string-array>
+    <string-array name="conversion_values">
+        <item>metric</item>
+        <item>imperial</item>
+    </string-array>
+    <string name="pref_temperature_key">Preferred Temperature</string>
+    <string name="pref_temperature_label">Choose Temperature</string>
+    <string name="show_in_map_value">Show in Map</string>
+    <string name="action_share">Share</string>
+
+</resources>
